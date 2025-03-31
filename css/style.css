@@ -1,0 +1,8 @@
+
+/* p: p element */
+/* #css: id "css" */
+/* .css: class "css" */
+p#css.css:after {
+    display: block;
+    content: "Hello, CSS!";
+}
